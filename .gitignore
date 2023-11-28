@@ -133,3 +133,7 @@ local.config
 out/
 toolchain
 toolchain/
+
+# Samsung
+scripts/crypto/__pycache__/
+scripts/fmp/__pycache__/
